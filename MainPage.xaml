@@ -35,6 +35,15 @@
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Center" />
 
+            <Label
+                Text="Hola, vamos a una nueva vista"
+                SemanticProperties.HeadingLevel="Level3"
+                SemanticProperties.Description="Ir a una nueva vista"
+                FontSize="18"
+                HorizontalOptions="Center" />
+
+            <Button Text="Ir a otra Pagina" Clicked="OnNavigateToNewPage1Clicked"/>
+
         </VerticalStackLayout>
     </ScrollView>
 
