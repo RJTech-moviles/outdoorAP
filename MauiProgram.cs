@@ -1,4 +1,4 @@
-﻿namespace OUTDOORAP;
+﻿namespace outdoor_ap;
 
 public static class MauiProgram
 {
