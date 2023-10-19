@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wQeNC2XU+O2CnXyEkxdw01BmKIbk+nz2HE7qscV1tT21wxp5CzwALAb++K7g4cLABmZiozbL9+zeMNVfjptY2Q==",
+  "dgSpecHash": "/iqQJ+enAqH4B4TDnNXTjocJrvuYFweiXVb+m+IgOnicwsATGdJolkZy8tJ0L1NT3TMlj9eX45mwEZtS63oiWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell\\source\\repos\\outdoorAP\\OUTDOORAP.csproj",
   "expectedPackageFiles": [
@@ -109,8 +109,8 @@
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.maui.core.ref.ios\\6.0.553\\microsoft.maui.core.ref.ios.6.0.553.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.ios.ref\\16.4.60\\microsoft.ios.ref.16.4.60.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.maui.controls.ref.ios\\6.0.553\\microsoft.maui.controls.ref.ios.6.0.553.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.ios.runtime.ios-arm64\\16.4.60\\microsoft.ios.runtime.ios-arm64.16.4.60.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.maui.essentials.runtime.ios\\6.0.553\\microsoft.maui.essentials.runtime.ios.6.0.553.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.ios.runtime.iossimulator-x64\\16.4.60\\microsoft.ios.runtime.iossimulator-x64.16.4.60.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.maui.core.runtime.ios\\6.0.553\\microsoft.maui.core.runtime.ios.6.0.553.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.maui.controls.ref.maccatalyst\\6.0.553\\microsoft.maui.controls.ref.maccatalyst.6.0.553.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64\\16.4.60\\microsoft.maccatalyst.runtime.maccatalyst-x64.16.4.60.nupkg.sha512",

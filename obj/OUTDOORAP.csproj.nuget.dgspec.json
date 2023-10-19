@@ -138,7 +138,7 @@
               "version": "[16.4.60, 16.4.60]"
             },
             {
-              "name": "Microsoft.iOS.Runtime.ios-arm64",
+              "name": "Microsoft.iOS.Runtime.iossimulator-x64",
               "version": "[16.4.60, 16.4.60]"
             },
             {
@@ -369,7 +369,7 @@
         "android-x86": {
           "#import": []
         },
-        "ios-arm64": {
+        "iossimulator-x64": {
           "#import": []
         },
         "maccatalyst-x64": {

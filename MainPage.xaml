@@ -9,40 +9,41 @@
             Padding="30,0"
             VerticalOptions="Center">
 
-            <Image
-                Source="dotnet_bot.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
-                HeightRequest="200"
-                HorizontalOptions="Center" />
+            <!-- Imagen logo xd -->
+
+            <Entry Placeholder="Correo electrónico" 
+                   HorizontalOptions="Center"
+                   FontSize="16"
+                   VerticalOptions="Center"/>
+            <!-- la propiedad bind="Model.Email" no entro al espacio de correo -->
+            
+            <Entry Placeholder="Contraseña" 
+                   IsPassword="true" 
+                   HorizontalOptions="Center"
+                   FontSize="16"
+                   VerticalOptions="Center"/>
+
+            <Button Text="Iniciar sesion" 
+                    Clicked="OnNavigateToNewPage1Clicked" 
+                    HorizontalOptions="Center"
+                    FontSize="16"
+                    VerticalOptions="Center"/>
 
             <Label
-                Text="Hello, World!"
-                SemanticProperties.HeadingLevel="Level1"
-                FontSize="32"
-                HorizontalOptions="Center" />
-
-            <Label
-                Text="Welcome to .NET Multi-platform App UI"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
-                HorizontalOptions="Center" />
-
-            <Button
-                x:Name="CounterBtn"
-                Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Center" />
-
-            <Label
-                Text="Hola, vamos a una nueva vista"
+                Text="Registrarse"
                 SemanticProperties.HeadingLevel="Level3"
                 SemanticProperties.Description="Ir a una nueva vista"
-                FontSize="18"
-                HorizontalOptions="Center" />
+                FontSize="16"
+                HorizontalOptions="Center" 
+                VerticalOptions="Center"/>
 
-            <Button Text="Ir a otra Pagina" Clicked="OnNavigateToNewPage1Clicked"/>
+            <Label
+                Text="Olvide la contraseña"
+                SemanticProperties.HeadingLevel="Level3"
+                SemanticProperties.Description="Ir a una nueva vista"
+                FontSize="16"
+                HorizontalOptions="Center" 
+                VerticalOptions="Center"/>
 
         </VerticalStackLayout>
     </ScrollView>

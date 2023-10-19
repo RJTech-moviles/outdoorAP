@@ -48,4 +48,19 @@
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Compile Update="confirmarPassword.xaml.cs">
+	    <DependentUpon>confirmarPassword.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="RecuperarPassword.xaml.cs">
+	    <DependentUpon>RecuperarPassword.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="confirmarPassword.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
 </Project>
