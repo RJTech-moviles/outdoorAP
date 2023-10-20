@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" IgnorableNamespaces="uap rescap">
-  <Identity Name="b4f480ae-1c9c-4b57-9156-b0707cf28fd2" Publisher="CN=User Name" Version="1.0.0.1" />
+  <Identity Name="8b38f759-71be-4100-81d1-b51435dffacf" Publisher="CN=User Name" Version="1.0.0.1" />
   <mp:PhoneIdentity PhoneProductId="E6726141-0EF8-4801-9E48-EA0FFE10001A" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>outdoor ap</DisplayName>
+    <DisplayName>OUTDOORAP</DisplayName>
     <PublisherDisplayName>User Name</PublisherDisplayName>
     <Logo>appiconStoreLogo.png</Logo>
   </Properties>
@@ -16,8 +16,8 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="$targetentrypoint$">
-      <uap:VisualElements DisplayName="outdoor ap" Description="outdoor ap" Square150x150Logo="appiconMediumTile.png" Square44x44Logo="appiconLogo.png" BackgroundColor="transparent">
-        <uap:DefaultTile Square71x71Logo="appiconSmallTile.png" Wide310x150Logo="appiconWideTile.png" Square310x310Logo="appiconLargeTile.png" ShortName="outdoor ap">
+      <uap:VisualElements DisplayName="OUTDOORAP" Description="OUTDOORAP" Square150x150Logo="appiconMediumTile.png" Square44x44Logo="appiconLogo.png" BackgroundColor="transparent">
+        <uap:DefaultTile Square71x71Logo="appiconSmallTile.png" Wide310x150Logo="appiconWideTile.png" Square310x310Logo="appiconLargeTile.png" ShortName="OUTDOORAP">
           <uap:ShowNameOnTiles>
             <uap:ShowOn Tile="square150x150Logo" />
             <uap:ShowOn Tile="wide310x150Logo" />

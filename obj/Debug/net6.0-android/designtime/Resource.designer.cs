@@ -8,13 +8,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("outdoor_ap.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("OUTDOORAP.Resource", IsApplication=true)]
 
-namespace outdoor_ap
+namespace OUTDOORAP
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.3.99.85")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.3.99.109")]
 	public partial class Resource
 	{
 		
@@ -25,65 +25,65 @@ namespace outdoor_ap
 		
 		public static void UpdateIdValues()
 		{
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.actionBarSize = global::outdoor_ap.Resource.Attribute.actionBarSize;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.collectionViewStyle = global::outdoor_ap.Resource.Attribute.collectionViewStyle;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.scrollViewStyle = global::outdoor_ap.Resource.Attribute.scrollViewStyle;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Drawable.abc_ic_clear_material = global::outdoor_ap.Resource.Drawable.abc_ic_clear_material;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Drawable.abc_ic_search_api_material = global::outdoor_ap.Resource.Drawable.abc_ic_search_api_material;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Layout.tabbar = global::outdoor_ap.Resource.Layout.tabbar;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Layout.toolbar = global::outdoor_ap.Resource.Layout.toolbar;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Style.collectionViewTheme = global::outdoor_ap.Resource.Style.collectionViewTheme;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Style.scrollViewTheme = global::outdoor_ap.Resource.Style.scrollViewTheme;
-			global::Microsoft.Maui.Controls.Resource.Animation.enterfromleft = global::outdoor_ap.Resource.Animation.enterfromleft;
-			global::Microsoft.Maui.Controls.Resource.Animation.enterfromright = global::outdoor_ap.Resource.Animation.enterfromright;
-			global::Microsoft.Maui.Controls.Resource.Animation.exittoleft = global::outdoor_ap.Resource.Animation.exittoleft;
-			global::Microsoft.Maui.Controls.Resource.Animation.exittoright = global::outdoor_ap.Resource.Animation.exittoright;
-			global::Microsoft.Maui.Controls.Resource.Attribute.actionBarSize = global::outdoor_ap.Resource.Attribute.actionBarSize;
-			global::Microsoft.Maui.Controls.Resource.Attribute.appBarLayoutStyle = global::outdoor_ap.Resource.Attribute.appBarLayoutStyle;
-			global::Microsoft.Maui.Controls.Resource.Attribute.bottomNavigationViewStyle = global::outdoor_ap.Resource.Attribute.bottomNavigationViewStyle;
-			global::Microsoft.Maui.Controls.Resource.Attribute.toolbarStyle = global::outdoor_ap.Resource.Attribute.toolbarStyle;
-			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_clear_material = global::outdoor_ap.Resource.Drawable.abc_ic_clear_material;
-			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_menu_overflow_material = global::outdoor_ap.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_search_api_material = global::outdoor_ap.Resource.Drawable.abc_ic_search_api_material;
-			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_bottomtabs = global::outdoor_ap.Resource.Id.navigationlayout_bottomtabs;
-			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_content = global::outdoor_ap.Resource.Id.navigationlayout_content;
-			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_toptabs = global::outdoor_ap.Resource.Id.navigationlayout_toptabs;
-			global::Microsoft.Maui.Controls.Resource.Id.shellcontent_appbar = global::outdoor_ap.Resource.Id.shellcontent_appbar;
-			global::Microsoft.Maui.Controls.Resource.Id.flyoutcontent_appbar = global::outdoor_ap.Resource.Id.flyoutcontent_appbar;
-			global::Microsoft.Maui.Controls.Resource.Layout.fragment_backstack = global::outdoor_ap.Resource.Layout.fragment_backstack;
-			global::Microsoft.Maui.Controls.Resource.Layout.flyoutcontent = global::outdoor_ap.Resource.Layout.flyoutcontent;
-			global::Microsoft.Maui.Controls.Resource.Layout.shellcontent = global::outdoor_ap.Resource.Layout.shellcontent;
-			global::Microsoft.Maui.Controls.Resource.Dimension.design_bottom_navigation_height = global::outdoor_ap.Resource.Dimension.design_bottom_navigation_height;
-			global::Microsoft.Maui.Controls.Resource.Style.ThemeOverlay_AppCompat_Light = global::outdoor_ap.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Microsoft.Maui.Controls.Resource.Styleable.Toolbar = global::outdoor_ap.Resource.Styleable.Toolbar;
-			global::Microsoft.Maui.Controls.Resource.Styleable.Toolbar_titleTextColor = global::outdoor_ap.Resource.Styleable.Toolbar_titleTextColor;
-			global::Microsoft.Maui.Controls.Resource.String.nav_app_bar_navigate_up_description = global::outdoor_ap.Resource.String.nav_app_bar_navigate_up_description;
-			global::Microsoft.Maui.Controls.Resource.String.nav_app_bar_open_drawer_description = global::outdoor_ap.Resource.String.nav_app_bar_open_drawer_description;
-			global::Microsoft.Maui.Controls.Resource.String.overflow_tab_title = global::outdoor_ap.Resource.String.overflow_tab_title;
-			global::Microsoft.Maui.Resource.Attribute.actionBarSize = global::outdoor_ap.Resource.Attribute.actionBarSize;
-			global::Microsoft.Maui.Resource.Attribute.colorSwitchThumbNormal = global::outdoor_ap.Resource.Attribute.colorSwitchThumbNormal;
-			global::Microsoft.Maui.Resource.Attribute.maui_splash = global::outdoor_ap.Resource.Attribute.maui_splash;
-			global::Microsoft.Maui.Resource.Attribute.scrollViewStyle = global::outdoor_ap.Resource.Attribute.scrollViewStyle;
-			global::Microsoft.Maui.Resource.Animation.nav_default_enter_anim = global::outdoor_ap.Resource.Animation.nav_default_enter_anim;
-			global::Microsoft.Maui.Resource.Animation.nav_default_exit_anim = global::outdoor_ap.Resource.Animation.nav_default_exit_anim;
-			global::Microsoft.Maui.Resource.Animation.nav_default_pop_enter_anim = global::outdoor_ap.Resource.Animation.nav_default_pop_enter_anim;
-			global::Microsoft.Maui.Resource.Animation.nav_default_pop_exit_anim = global::outdoor_ap.Resource.Animation.nav_default_pop_exit_anim;
-			global::Microsoft.Maui.Resource.Drawable.abc_ic_clear_material = global::outdoor_ap.Resource.Drawable.abc_ic_clear_material;
-			global::Microsoft.Maui.Resource.Id.navigation_layout = global::outdoor_ap.Resource.Id.navigation_layout;
-			global::Microsoft.Maui.Resource.Id.navigationlayout_appbar = global::outdoor_ap.Resource.Id.navigationlayout_appbar;
-			global::Microsoft.Maui.Resource.Id.navigationlayout_bottomtabs = global::outdoor_ap.Resource.Id.navigationlayout_bottomtabs;
-			global::Microsoft.Maui.Resource.Id.navigationlayout_content = global::outdoor_ap.Resource.Id.navigationlayout_content;
-			global::Microsoft.Maui.Resource.Id.navigationlayout_toptabs = global::outdoor_ap.Resource.Id.navigationlayout_toptabs;
-			global::Microsoft.Maui.Resource.Id.nav_host = global::outdoor_ap.Resource.Id.nav_host;
-			global::Microsoft.Maui.Resource.Id.nav_host_fragment_container = global::outdoor_ap.Resource.Id.nav_host_fragment_container;
-			global::Microsoft.Maui.Resource.Id.search_button = global::outdoor_ap.Resource.Id.search_button;
-			global::Microsoft.Maui.Resource.Id.search_close_btn = global::outdoor_ap.Resource.Id.search_close_btn;
-			global::Microsoft.Maui.Resource.Layout.drawer_layout = global::outdoor_ap.Resource.Layout.drawer_layout;
-			global::Microsoft.Maui.Resource.Layout.navigationlayout = global::outdoor_ap.Resource.Layout.navigationlayout;
-			global::Microsoft.Maui.Resource.Layout.fragment_backstack = global::outdoor_ap.Resource.Layout.fragment_backstack;
-			global::Microsoft.Maui.Resource.Style.Maui_MainTheme_NoActionBar = global::outdoor_ap.Resource.Style.Maui_MainTheme_NoActionBar;
-			global::Microsoft.Maui.Resource.Style.ThemeOverlay_AppCompat_Light = global::outdoor_ap.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Microsoft.Maui.Resource.Style.scrollViewTheme = global::outdoor_ap.Resource.Style.scrollViewTheme;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.actionBarSize = global::OUTDOORAP.Resource.Attribute.actionBarSize;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.collectionViewStyle = global::OUTDOORAP.Resource.Attribute.collectionViewStyle;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.scrollViewStyle = global::OUTDOORAP.Resource.Attribute.scrollViewStyle;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Drawable.abc_ic_clear_material = global::OUTDOORAP.Resource.Drawable.abc_ic_clear_material;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Drawable.abc_ic_search_api_material = global::OUTDOORAP.Resource.Drawable.abc_ic_search_api_material;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Layout.tabbar = global::OUTDOORAP.Resource.Layout.tabbar;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Layout.toolbar = global::OUTDOORAP.Resource.Layout.toolbar;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Style.collectionViewTheme = global::OUTDOORAP.Resource.Style.collectionViewTheme;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Style.scrollViewTheme = global::OUTDOORAP.Resource.Style.scrollViewTheme;
+			global::Microsoft.Maui.Controls.Resource.Animation.enterfromleft = global::OUTDOORAP.Resource.Animation.enterfromleft;
+			global::Microsoft.Maui.Controls.Resource.Animation.enterfromright = global::OUTDOORAP.Resource.Animation.enterfromright;
+			global::Microsoft.Maui.Controls.Resource.Animation.exittoleft = global::OUTDOORAP.Resource.Animation.exittoleft;
+			global::Microsoft.Maui.Controls.Resource.Animation.exittoright = global::OUTDOORAP.Resource.Animation.exittoright;
+			global::Microsoft.Maui.Controls.Resource.Attribute.actionBarSize = global::OUTDOORAP.Resource.Attribute.actionBarSize;
+			global::Microsoft.Maui.Controls.Resource.Attribute.appBarLayoutStyle = global::OUTDOORAP.Resource.Attribute.appBarLayoutStyle;
+			global::Microsoft.Maui.Controls.Resource.Attribute.bottomNavigationViewStyle = global::OUTDOORAP.Resource.Attribute.bottomNavigationViewStyle;
+			global::Microsoft.Maui.Controls.Resource.Attribute.toolbarStyle = global::OUTDOORAP.Resource.Attribute.toolbarStyle;
+			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_clear_material = global::OUTDOORAP.Resource.Drawable.abc_ic_clear_material;
+			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_menu_overflow_material = global::OUTDOORAP.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_search_api_material = global::OUTDOORAP.Resource.Drawable.abc_ic_search_api_material;
+			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_bottomtabs = global::OUTDOORAP.Resource.Id.navigationlayout_bottomtabs;
+			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_content = global::OUTDOORAP.Resource.Id.navigationlayout_content;
+			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_toptabs = global::OUTDOORAP.Resource.Id.navigationlayout_toptabs;
+			global::Microsoft.Maui.Controls.Resource.Id.shellcontent_appbar = global::OUTDOORAP.Resource.Id.shellcontent_appbar;
+			global::Microsoft.Maui.Controls.Resource.Id.flyoutcontent_appbar = global::OUTDOORAP.Resource.Id.flyoutcontent_appbar;
+			global::Microsoft.Maui.Controls.Resource.Layout.fragment_backstack = global::OUTDOORAP.Resource.Layout.fragment_backstack;
+			global::Microsoft.Maui.Controls.Resource.Layout.flyoutcontent = global::OUTDOORAP.Resource.Layout.flyoutcontent;
+			global::Microsoft.Maui.Controls.Resource.Layout.shellcontent = global::OUTDOORAP.Resource.Layout.shellcontent;
+			global::Microsoft.Maui.Controls.Resource.Dimension.design_bottom_navigation_height = global::OUTDOORAP.Resource.Dimension.design_bottom_navigation_height;
+			global::Microsoft.Maui.Controls.Resource.Style.ThemeOverlay_AppCompat_Light = global::OUTDOORAP.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Microsoft.Maui.Controls.Resource.Styleable.Toolbar = global::OUTDOORAP.Resource.Styleable.Toolbar;
+			global::Microsoft.Maui.Controls.Resource.Styleable.Toolbar_titleTextColor = global::OUTDOORAP.Resource.Styleable.Toolbar_titleTextColor;
+			global::Microsoft.Maui.Controls.Resource.String.nav_app_bar_navigate_up_description = global::OUTDOORAP.Resource.String.nav_app_bar_navigate_up_description;
+			global::Microsoft.Maui.Controls.Resource.String.nav_app_bar_open_drawer_description = global::OUTDOORAP.Resource.String.nav_app_bar_open_drawer_description;
+			global::Microsoft.Maui.Controls.Resource.String.overflow_tab_title = global::OUTDOORAP.Resource.String.overflow_tab_title;
+			global::Microsoft.Maui.Resource.Attribute.actionBarSize = global::OUTDOORAP.Resource.Attribute.actionBarSize;
+			global::Microsoft.Maui.Resource.Attribute.colorSwitchThumbNormal = global::OUTDOORAP.Resource.Attribute.colorSwitchThumbNormal;
+			global::Microsoft.Maui.Resource.Attribute.maui_splash = global::OUTDOORAP.Resource.Attribute.maui_splash;
+			global::Microsoft.Maui.Resource.Attribute.scrollViewStyle = global::OUTDOORAP.Resource.Attribute.scrollViewStyle;
+			global::Microsoft.Maui.Resource.Animation.nav_default_enter_anim = global::OUTDOORAP.Resource.Animation.nav_default_enter_anim;
+			global::Microsoft.Maui.Resource.Animation.nav_default_exit_anim = global::OUTDOORAP.Resource.Animation.nav_default_exit_anim;
+			global::Microsoft.Maui.Resource.Animation.nav_default_pop_enter_anim = global::OUTDOORAP.Resource.Animation.nav_default_pop_enter_anim;
+			global::Microsoft.Maui.Resource.Animation.nav_default_pop_exit_anim = global::OUTDOORAP.Resource.Animation.nav_default_pop_exit_anim;
+			global::Microsoft.Maui.Resource.Drawable.abc_ic_clear_material = global::OUTDOORAP.Resource.Drawable.abc_ic_clear_material;
+			global::Microsoft.Maui.Resource.Id.navigation_layout = global::OUTDOORAP.Resource.Id.navigation_layout;
+			global::Microsoft.Maui.Resource.Id.navigationlayout_appbar = global::OUTDOORAP.Resource.Id.navigationlayout_appbar;
+			global::Microsoft.Maui.Resource.Id.navigationlayout_bottomtabs = global::OUTDOORAP.Resource.Id.navigationlayout_bottomtabs;
+			global::Microsoft.Maui.Resource.Id.navigationlayout_content = global::OUTDOORAP.Resource.Id.navigationlayout_content;
+			global::Microsoft.Maui.Resource.Id.navigationlayout_toptabs = global::OUTDOORAP.Resource.Id.navigationlayout_toptabs;
+			global::Microsoft.Maui.Resource.Id.nav_host = global::OUTDOORAP.Resource.Id.nav_host;
+			global::Microsoft.Maui.Resource.Id.nav_host_fragment_container = global::OUTDOORAP.Resource.Id.nav_host_fragment_container;
+			global::Microsoft.Maui.Resource.Id.search_button = global::OUTDOORAP.Resource.Id.search_button;
+			global::Microsoft.Maui.Resource.Id.search_close_btn = global::OUTDOORAP.Resource.Id.search_close_btn;
+			global::Microsoft.Maui.Resource.Layout.drawer_layout = global::OUTDOORAP.Resource.Layout.drawer_layout;
+			global::Microsoft.Maui.Resource.Layout.navigationlayout = global::OUTDOORAP.Resource.Layout.navigationlayout;
+			global::Microsoft.Maui.Resource.Layout.fragment_backstack = global::OUTDOORAP.Resource.Layout.fragment_backstack;
+			global::Microsoft.Maui.Resource.Style.Maui_MainTheme_NoActionBar = global::OUTDOORAP.Resource.Style.Maui_MainTheme_NoActionBar;
+			global::Microsoft.Maui.Resource.Style.ThemeOverlay_AppCompat_Light = global::OUTDOORAP.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Microsoft.Maui.Resource.Style.scrollViewTheme = global::OUTDOORAP.Resource.Style.scrollViewTheme;
 		}
 		
 		public partial class Animation
